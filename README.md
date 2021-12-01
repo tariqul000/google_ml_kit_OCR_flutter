@@ -1,6 +1,6 @@
 # Flutter Google ML Kit OCR
 
-This a sample Flutter app integrated with the [ML Kit](https://developers.google.com/ml-kit) Vision API for recognition All text from an image.
+This a sample Flutter app integrated with the [ML Kit](https://pub.dev/packages/google_ml_kit) Vision API for recognition All text from an image.
 
 ## Plugins
 
